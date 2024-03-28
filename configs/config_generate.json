@@ -1,0 +1,31 @@
+{
+	"learning_rate": 1e-3, 
+	
+	"sequence_size": 30, 
+	
+	"no_epochs": 100, 
+	
+	"no_layers": 1,
+
+	"hidden_size": 150, 
+
+	"dropout": 0.1,
+
+	"model_type": "LSTM", 
+
+	"save_epoch": 10, 
+
+	"temperature": 0.5, 
+
+	"max_generation_length": 1000, 
+
+	"generated_song_file_path": "./song_generated.txt", 
+
+	"show_heatmap": true,
+
+	"loss_plot_file_name": "baseline_loss_plot", 
+
+	"evaluate_model_only": true, 
+
+	"model_path": "./checkpoint/ckpt_mdl_LSTM_ep_100_hsize_150_dout_0.2.t99" 
+}

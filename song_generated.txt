@@ -1,0 +1,19 @@
+<start>
+X:18
+T:Ber Bling double
+R:polka
+H:A version mailto:galouvielle@free.fr
+M:2/4
+L:1/8
+K:G
+B/A/G/) AB|A/B/A/G/ AG|FE FA|BA G>E|D>D DF|A2 eA|fe dB|A>G A>B|cB AB/A/|GB Bc|BA AB|A>G FE|FE FE|FA AB|cB BA|1 GE GE:|2 GA A2||
+|:e>f g>f|g>f e>d|ef g>a|ba fe|fe ec|d2 dB|A>B d>e|fe dB|AF DE|FE DE|FA AB|df af|
+ed cB|A>B cB|AB A2:|
+|:e2 e>f|ec de|fe dB|AF AB|AB ce|fe dB|A>B A>B|cA Ae|fe ce|dB AB|cB A2|fe dB|A>B A>B|AB AB|cB A2|A2 A2|A>B c>B|Ad d>B:|
+|:e>f ed|ce ce|d2 d>e:|2 fe/d/ cA|BA AB|A>A Bc|dc d>e|fd ef|g>f ec|dB AF|A>B dc|BA AB/c/|dB AB|AG A>B|cB A2|ag/f/ ef|fe dB|AF DF|A>B ce|dB AB|AG A>B|AG A>B|AF FE|D>E ED|E>E ED|ED DF|A2 A>B|cA A2|AB cA|BA GE|
+FA A>B|AF DF|AB AF|EF D2|A>B A>B|cA AB|cB AB|AF DF|A/B/A/G/ FE|ED D2:|
+|:fe|fe ed|cB AF|DA A>B|AF FE|DF A>B|AF A2|A>B c>B|AF A>d|ef e/f/g/e/|dA AB/c/|de e/d/c/B/|A2 A2:|
+|:e>f ed|e/f/e/d/ Bd|e/f/e/d/ Bd|ed cB|A2 A>B|AG AB|A>G FE|D2 D2||
+|:ef/e/ fe|de f>e|d2 f>e|dB A/B/c/d/|e/d/B/G/ AB|1 AG AB:|2 A2 A2||
+|:ef/e/ ce|fe ec|1 dc d2:|2 e2 ed||
+|:ec B>c|BA <end>

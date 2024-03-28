@@ -1,0 +1,19 @@
+<start>
+X:8
+T:Las 15
+Z:id:hn-polka-28
+M:2/4
+L:1/8
+K:D
+A>F EA|B>B BB|1 de f2:|2 e2 ga|ea g2|ed BA|A2 Ac|BA B/c/d/B/|Ad e>f|gf ec|BG AG|
+E>A (3BAB|
+B2 G2:|
+|:cd|ed cd|ed B/c/d|e>d Bd|gd c2|AF AB/d/|gf e>d|cB AB|AF FE D/E/F/E/||
+|:AG F2|~D3 fee|dc e2|ed d>e|f>d e>d|cA Bc|ed ef|gf e>f|ef g>g|ag e/d/B/A/|GE EF|G2 GG:|
+|:ed B/c/|BA B/A/G/F/|
+AG AA|B/A/G/A/ BA/G/|DB cd|B/A/B/c/ de|fd =e/f/|
+ed ef|ed d>e:|
+|:g/a/g/g/ eA|B>A B/|c/B/A/G/ BA|BA A>B|c>e e>f|ed/e/ d>c|B>B AB|eA FA|dc BA|df/f/ ec|1 de f>e|de d>d|fe ce|A2 eg|fd eB|fd f>g|af fe|f2 eg|fe f/e/d|d2 d/e/d/B/|Ad A>B|e2 e2|ed e>f|fe dB/A/|GE E2:|
+|:Bc BA|f>f ef|gf/g/ f>e|fe de|ec d>g|fe ef|ed A/B/c/B/|AB cB|AB cB|Ad ed|BA AB/A/|GB B/A/G/A/|Bf e/f/e/d/|BA B/c/d|ed Bd|eA dB/c/|
+B/A/G/A/ BA|1 B2 cd:|2 A2 AF/G/|| BG BA|G2 AB|dd B>d|Ac Bc|B2 AB|1 BA B2:|2 e/c/A d>d|e>d BA|B>A AB|1G2 B2:|2 Be A2|d2 d2||
+|:f2 ef/g/|e/f/e/d/ e/f/g/e/|fd g/c/d|ef ed|f/f/e/d/ ec|A2 AB|c2 AF/G/|AE FE|DF A2|fE EG|GB/A/ GB/c/|dB Bc|fe/e/ f/e/f/e/|dc/d/ ee|fg ag/f/|g>f e>f|ed B<end>

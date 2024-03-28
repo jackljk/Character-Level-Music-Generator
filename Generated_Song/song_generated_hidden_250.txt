@@ -1,0 +1,32 @@
+<start>
+X:85
+T:Petry Butchernan's Cvition of the Fay of Piper, #119, #2
+D:Niedle
+Z:id:hn-polka-50
+M:2/4
+L:1/8
+K:Dmix
+|:B2 B>B|B>A BA|B/A/B/c/ df|e/d/c/d/ ed|GB G>B|AB/c/ BA|DF F2|AB/A/ GE|~D3 DFA|GFG B2|dcB GE|FD D2:|
+<end>
+N:Drerne
+Z:id:hn-polka-42
+M:2/4
+L:1/8
+K:D
+Ad | cA AF|DF AB|cB c/B/A/B/|cB c2|A>B ce|f/e/d dc|BA BF|A>B cB|BA FE|B/c/B AF|1 AG GB/d/:|2 cc cc|ea e/d/|cB Ac|ea ec/e/|
+f/f/f/e/ dB|BA AG|Bd cB|cB Bc|d2 A/B/c|1 g>a ge|d/c/B/A/ GB|ee ed|ef/e/ dd|ed d>c:|
+|:a>f fe|fe a2|fe ef|ef ed|f/e/c BA|d2 c/d/c|BA B/c/A|1 BG G>A:|2 A>B AG|:
+<end>
+B:Massif Colan, The
+T:Pece Roy parts
+T:Perctule Colerr
+R:polka
+H:See also #356
+Z:id:hn-polka-11
+M:2/4
+L:1/8
+K:D
+f/f/g/f/ ed|B/c/d cB|A2 AG|A/B/c/A/ cd|e/f/g/e/ dc|B2 B/c/d|ee ed|c/B/A/B/ ce|1 d>B cB|G>A G>A|B2 B>B G>A|BG GB|1A/G/A/B/ GB/d/|ec B>A|BA cB|cB cB|GB BA|B/c/d ed|e/f/e/c/ dB|B>A Bc|d2 d>e:|
+|:fa fg|fe ce|A>B ce|f/a/g/e/ dB|B/A/B/c/ BA|ea af|ed d>d|de f2|fe ce|f/d/e/f/ ga|g>g fe|fd ed|B/c/d ec|A/B/c/A/ d/e/f/g/|
+af ef|ed d2:|
+|:eg e>d|Bd Bd<end>
